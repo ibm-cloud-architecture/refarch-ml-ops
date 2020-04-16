@@ -103,9 +103,12 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 
 The contribution policies apply the same way here as that of any other projects in IBM Cloud Architecture Center.
 
-Contributors:
-
     +[Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
     +[Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
+
+Contributors:
+
+ +[Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
+ +[Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
     
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
