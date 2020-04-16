@@ -20,7 +20,7 @@ ML Operationalization refers to operationalization of Machine Learning Models fo
 
 ML Operationalization covers standard ML Lifecycle (CRISP-DM) overlayed with Continuous Integration/Nontinuous Development paradigm. It covers Data Priovisioning & Governance, Data Preparation for Model Development, Model Development, Model Validation & Governance, Infusing Model's Insight in Application and Model Monitoring overlayed with Continuous Integration/Nontinuous Development paradigm.
 
-![](Images/MLOpsConceptialView2.png)
+![](images/MLOpsConceptialView2.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
@@ -28,7 +28,7 @@ For more infornation on conceptual view of ML Operationalization please check [O
 
 **ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be customised for other environment too.
 
-![](Images/MlOpsStarterKit2.png)
+![](images/MlOpsStarterKit2.png)
 
 ### ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects">
 
@@ -41,7 +41,7 @@ Each Get Started project supports a specific Machine Learning framework. Right n
     + AutoAI
     + More frameworks; R, Tensore Flow/Keras, SPSS Modeler, etc; are coming soon.
 
-![](Images/MlOpsFrameworks5.png)
+![](images/MlOpsFrameworks5.png)
 
 ### Where to use ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects-usage">
 
