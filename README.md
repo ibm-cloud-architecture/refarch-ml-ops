@@ -5,12 +5,14 @@
 ### Contents
 
 1. [ML Operationalizarion](#ml-ops-intro)
-2. [ML Ops Starter Kit](#ml-ops-starter-kit)
-3. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
-4. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
-5. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
-6. [Contents of the Repository](#ml-ops-repo-contents)
-7. [How to get Started with this Starter Kit](#ml-ops-get-started)
+2. [ML Operationalizarion](#ml-ops-intro)
+3. [ML Ops Starter Kit](#ml-ops-starter-kit)
+4. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
+5. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
+6. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
+7. [Contents of the Repository](#ml-ops-repo-contents)
+8. [How to get Started with this Starter Kit](#ml-ops-get-started)
+9. [How to get Started with this Starter Kit](#ml-ops-get-started)
 
 
 
@@ -88,3 +90,13 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 + Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
 
+### Contributors<a class="anchor" id="ml-ops-contributors">
+
+The contribution policies apply the same way here as that of any other projects in IBM Cloud Architecture Center.
+
+Contributors:
+
+    Shikhar Kawtra
+    Sourav Mazumder
+    
+Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
