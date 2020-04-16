@@ -13,7 +13,7 @@
 7. [Contents of the Repository](#ml-ops-repo-contents)
 8. [How to get Started with this Starter Kit](#ml-ops-get-started)
 9. [How to get Started with this Starter Kit](#ml-ops-get-started)
-10.[Cintributors](#ml-ops-contributors)
+10. [Contributors](#ml-ops-contributors)
 
 
 
