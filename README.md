@@ -99,13 +99,10 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 + Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
 
+
 ### Contributors<a class="anchor" id="#ml-ops-contributors">
-
-The contribution policies apply the same way here as that of any other projects in IBM Cloud Architecture Center.
-
-Contributors:
-
- [Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
- [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
     
++ [Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
++ [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
+
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
