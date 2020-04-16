@@ -26,7 +26,7 @@ For more infornation on conceptual view of ML Operationalization please check [O
 
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
 
-**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be customised for other environment too.
+**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be customised for any other Open Source of Propreitory Infrastructure too.
 
 ![](images/MlOpsStarterKit2.png)
 
@@ -45,14 +45,13 @@ Each Get Started project supports a specific Machine Learning framework. Right n
 
 ### Where to use ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects-usage">
 
-+ Creating End to End Demo aligned with ML Ops challenges/requirements of new/prospective clients of CPD
-+ Quick standup of End to End ML Ops Enablement Workshops for clients in their CPD infrastructure & using their Data
-+ Delivery of Initiate and Productionize service offerings for ML Ops (attached with Cloud Pak For Data sales)
-+ Certifying Cloud Pak for Data deployment in client’s side to ensure that it is ML Ops ready
-+ Internal Enablement
++ As a Starter Creating End to End Demo aligned with ML Ops challenges/requirements of new/prospective clients of CPD
++ Enablement
 + Development of industry specific demos/ assets using Cloud Pak for Data
 
 ML Ops Starter Kit works on any Cloud Pak For Data cluster (that has necessary components) including [Cloud Pak For Data Experience](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) 
+
+ML Ops Starter Kit can be used for othet environments too in Public Cloud, Private Cloud or Hybrid Environment
 
 ### ML Ops Starter Kit Roadmap<a class="anchor" id="ml-ops-sk-roadmap">
 
@@ -78,14 +77,14 @@ ML Ops Starter Kit works on any Cloud Pak For Data cluster (that has necessary c
 + A set of Get Started Projects which can be imported to Cloud Pak For Data for End to End ML Operationalization. 
 + Supporting Assets
     + Best Practices and Guidelines
-    + CPD Sizing tool for ML Ops
-    + Client Facing Presentation Decks
-    + Client Facing Executive Video
-    + Video on Detailed ML Ops process
+    + CPD Sizing Guidelines
+    + Short Video on ML Ops using Cloud Pak For Data
+    + Video on Detailed steps of ML Ops process using Cloud Pak For Data
     + Reference Architecture
 
 ### How to get Started with this Starter Kit<a class="anchor" id="ml-ops-get-started">
     
-+ Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have only 1 project that has Auto AI. We are adding more projects soon.*
++ If you have some environment of Cloud Pak For Data start with that. Or get your access to free edition of [Cloud Pak For Data](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) cluster
++ Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
 
