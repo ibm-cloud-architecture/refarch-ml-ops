@@ -1,4 +1,4 @@
-## MLOps Starter Kit for CloudPak for Data using AutoAI: README
+## MLOps Starter Kit for CloudPak for Data using AutoAI
 
 This document provides the necessary information to get started with ML Operationalization using AutoAI.
 
