@@ -12,8 +12,7 @@
 6. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
 7. [Contents of the Repository](#ml-ops-repo-contents)
 8. [How to get Started with this Starter Kit](#ml-ops-get-started)
-9. [How to get Started with this Starter Kit](#ml-ops-get-started)
-10. [Contributors](#ml-ops-contributors)
+9. [Contributors](#ml-ops-contributors)
 
 
 
@@ -100,7 +99,7 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
 
 
-### Contributors<a class="anchor" id="#ml-ops-contributors">
+### Contributors<a class="anchor" id="ml-ops-contributors">
     
 + [Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
 + [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
