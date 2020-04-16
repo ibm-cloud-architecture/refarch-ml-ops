@@ -89,7 +89,6 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 + A set of Get Started Projects which can be imported to Cloud Pak For Data for End to End ML Operationalization. 
 + Supporting Assets
     + Best Practices and Guidelines
-    + CPD Sizing Guidelines
     + Short Video on ML Ops using Cloud Pak For Data
     + Video on Detailed steps of ML Ops process using Cloud Pak For Data
     + Reference Architecture
