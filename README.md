@@ -5,7 +5,7 @@
 ### Contents
 
 1. [ML Operationalizarion](#ml-ops-intro)
-2. [ML Operationalizarion](#ml-ops-intro)
+2. [Cloud Pak For Data - A Platform for Operationalizing Models](#ml-ops-cpd-intro)
 3. [ML Ops Starter Kit](#ml-ops-starter-kit)
 4. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
 5. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
@@ -25,6 +25,13 @@ ML Operationalization covers standard ML Lifecycle (CRISP-DM) overlayed with Con
 ![](images/MLOpsConceptialView2.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
+
+### Cloud Pak For Data - A Platform for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
+    
+Framework to accelerate journey to AI to transform business operation with an open, extensible data and AI platform that runs on any cloud.
+
+![](images/CPDIntro.png)
+
 
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
 
@@ -96,7 +103,7 @@ The contribution policies apply the same way here as that of any other projects 
 
 Contributors:
 
-    Shikhar Kawtra
-    Sourav Mazumder
+    [Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
+    [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
     
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
