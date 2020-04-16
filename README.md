@@ -1,4 +1,4 @@
-# ML-Operationalization-Starter-Kit for ML Operationalization
+# ML Operationalization Starter Kit for ML Operationalization
 
 
 
