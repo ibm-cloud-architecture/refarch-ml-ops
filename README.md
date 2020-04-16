@@ -106,7 +106,6 @@ The contribution policies apply the same way here as that of any other projects 
 Contributors:
 
  [Shikhar Kawtra](https://www.linkedin.com/in/shikharkwatra/)
- 
  [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
     
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
