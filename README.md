@@ -13,6 +13,7 @@
 7. [Contents of the Repository](#ml-ops-repo-contents)
 8. [How to get Started with this Starter Kit](#ml-ops-get-started)
 9. [How to get Started with this Starter Kit](#ml-ops-get-started)
+10.[Cintributors](#ml-ops-contributors)
 
 
 
@@ -28,9 +29,11 @@ For more infornation on conceptual view of ML Operationalization please check [O
 
 ### Cloud Pak For Data - A Platform for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
     
-Framework to accelerate journey to AI to transform business operation with an open, extensible data and AI platform that runs on any cloud.
+Next let us discuss about IBM Cloud Pak For Data. It is a platform to accelerate journey to AI to transform business operation with an open, extensible data and AI platform that runs on any cloud.
 
 ![](images/CPDIntro.png)
+
+For detailed information about Cloud Pak For Data please check [here](https://www.ibm.com/products/cloud-pak-for-data)
 
 
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
@@ -97,7 +100,7 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
 + Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
 
-### Contributors<a class="anchor" id="ml-ops-contributors">
+### Contributors<a class="anchor" id="#ml-ops-contributors">
 
 The contribution policies apply the same way here as that of any other projects in IBM Cloud Architecture Center.
 
