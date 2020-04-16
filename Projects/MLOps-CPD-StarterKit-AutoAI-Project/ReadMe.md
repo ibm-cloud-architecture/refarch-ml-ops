@@ -15,16 +15,16 @@ This document provides the necessary information to get started with ML Operatio
 + Click on the left top Hamburger icon (left to the text Cloud Pak For Data) to bring up the left navigation bar in the home page.
 
 
-![](images/Images1.png)
+![](images/Image1.png)
 
 + Click on ‘Projects’. This will bring up the Projects page.
 
-![](images/Images2.png)
+![](images/Image2.png)
 
 + In the Projects page, click on ‘New Project’ on right top.
 + In the subsequent page, click on ‘Create a Project from a sample or file’.
 
-![](images/Images3.png)
+![](images/Image3.png)
 
 
 + In the next page Under ‘From a File’ tab upload the zip file provided (you should have it in the same folder where you have this ‘Read Me’.doc). 
