@@ -30,11 +30,15 @@ The diagram below show the ML Ops steps and persona
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
-### Cloud Pak For Data - A Platform for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
+### Frameworks for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
     
-Next let us discuss about IBM Cloud Pak For Data. It is a platform to accelerate journey to AI to transform business operation with an open, extensible data and AI platform that runs on any cloud.
+There are various frameworks and platforms available for ML Operationalization
 
-![](images/CPDIntro.png)
+![](images/VariousMlOpsFrameworks.png)
+
+IBM Cloud Pak For Data is platform to support ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
+
+![](images/CPDTotal.png)
 
 For detailed information about Cloud Pak For Data please check [here](https://www.ibm.com/products/cloud-pak-for-data)
 
