@@ -5,7 +5,7 @@
 ### Contents
 
 1. [ML Operationalizarion](#ml-ops-intro)
-2. [Cloud Pak For Data - A Platform for Operationalizing Models](#ml-ops-cpd-intro)
+2. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
 3. [ML Ops Starter Kit](#ml-ops-starter-kit)
 4. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
 5. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
@@ -30,13 +30,17 @@ The diagram below show the ML Ops steps and persona
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
+
+
 ### Frameworks for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
     
 There are various frameworks and platforms available for ML Operationalization
 
 ![](images/VariousMlOpsFrameworks.png)
 
-IBM Cloud Pak For Data is platform to support ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
+
+
+**IBM Cloud Pak For Data** is also platform to support ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
 ![](images/CPDTotal.png)
 
@@ -45,9 +49,10 @@ For detailed information about Cloud Pak For Data please check [here](https://ww
 
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
 
-**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be customised for any other Open Source of Propreitory Infrastructure too.
+**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be extended for any other Open Source of Propreitory ML Ops frameworks too or for use in a Mix and Match way.
 
-![](images/MlOpsStarterKit2.png)
+
+![](images/MlOpsStarterKit3.png)
 
 ### ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects">
 
