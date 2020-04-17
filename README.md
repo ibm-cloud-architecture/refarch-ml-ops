@@ -26,7 +26,7 @@ In contrast to Appplication DevOps, MLOps not only takes care of Continuous Inte
 
 The diagram below show the ML Ops steps and persona
 
-![](images/MlOps1.png)
+![](images/MlOps2.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
@@ -47,12 +47,15 @@ There are various frameworks and platforms available for ML Operationalization
 For detailed information about Cloud Pak For Data please check [here](https://www.ibm.com/products/cloud-pak-for-data)
 
 
+
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
 
 **ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be extended for any other Open Source of Propreitory ML Ops frameworks too or for use in a Mix and Match way.
 
 
 ![](images/MlOpsStarterKit3.png)
+
+
 
 ### ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects">
 
@@ -67,6 +70,8 @@ Each Get Started project supports a specific Machine Learning framework. Right n
 
 ![](images/MlOpsFrameworks5.png)
 
+
+
 ### Where to use ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects-usage">
 
 + As a Starter Creating End to End Demo aligned with ML Ops challenges/requirements of new/prospective clients of CPD
@@ -77,9 +82,11 @@ ML Ops Starter Kit works on any Cloud Pak For Data cluster (that has necessary c
 
 ML Ops Starter Kit can be used for othet environments too in Public Cloud, Private Cloud or Hybrid Environment
 
+
+
 ### ML Ops Starter Kit Roadmap<a class="anchor" id="ml-ops-sk-roadmap">
 
-*Roadmap of ML Ops Starter Kit -*
+*Intended Roadmap of ML Ops Starter Kit. Can be changed based on priorities -*
 
 + **Wave 1 (on CPD 2.5)**  
     + ML Ops covering Data Preparation, Model Development, Model Deployment & Consumption, and  Model Monitoring
@@ -95,6 +102,7 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
     + Advanced CI/CD using Jenkins and Github (using CLI)
     + Configuring Open Scale using API
     + Additional ML Frameworks – R, Tensor Flow/Keras, Others
+    + Other ML Operationalization Frameworks
 
 ### Contents of the Repository<a class="anchor" id="ml-ops-repo-contents">
 
@@ -109,7 +117,7 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
     
 + If you have some environment of Cloud Pak For Data start with that. Or get your access to free edition of [Cloud Pak For Data](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) cluster
 + Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
-+ Go to Supporting Assets folder of this Repository. There you would get other relevant documentations needed by you for ML Ops
++ Go to Supporting Assets folder of this Repository. There you would get other relevant documentations that may beneeded by you for ML Ops
 
 
 ### Contributors<a class="anchor" id="ml-ops-contributors">
