@@ -18,11 +18,15 @@
 
 ### ML Operationalization<a class="anchor" id="ml-ops-intro">
     
-ML Operationalization refers to operationalization of Machine Learning Models for production use and realizing business value out of those Models. 
+ML Operationalization refers to operationalization of Machine Learning Models for production use to realize business value out of those Models. 
 
-ML Operationalization covers standard ML Lifecycle (CRISP-DM) overlayed with Continuous Integration/Nontinuous Development paradigm. It covers Data Priovisioning & Governance, Data Preparation for Model Development, Model Development, Model Validation & Governance, Infusing Model's Insight in Application and Model Monitoring overlayed with Continuous Integration/Nontinuous Development paradigm.
+ML Operationalization covers standard ML Lifecycle (CRISP-DM) overlaid with Continuous Integration/Continuous Development paradigm. It covers Data Priovisioning & Governance, Data Preparation for Model Development, Model Development, Model Validation & Governance, Infusing Model's Insight in Application and Model Monitoring in a continuous fashion.
 
-![](images/MLOpsConceptialView2.png)
+In contrast to Appplication DevOps, MLOps not only takes care of Continuous Integration and Continuous Deployment but also covers Continuous Training and Monitoring.
+
+The diagram below show the ML Ops steps and persona
+
+![](images/MLOps.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
