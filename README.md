@@ -103,5 +103,8 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
     
 + [Shikhar Kwatra](https://www.linkedin.com/in/shikharkwatra/)
 + [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
++ [Mak Kader](https://www.linkedin.com/in/makkader/)
++ [Stacey Ronaghan](https://www.linkedin.com/in/staceyronaghan/)
++ [Rakshith DasenahalliLingaraju](https://www.linkedin.com/in/rakshith-dasenahallilingaraju-600639100/)
 
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
