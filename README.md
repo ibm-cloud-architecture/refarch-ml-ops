@@ -26,7 +26,7 @@ In contrast to Appplication DevOps, MLOps not only takes care of Continuous Inte
 
 The diagram below show the ML Ops steps and persona
 
-![](images/MLOps1.png)
+![](images/MlOps1.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
