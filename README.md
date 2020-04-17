@@ -61,6 +61,18 @@ For detailed information about Cloud Pak For Data please check [here](https://ww
 
 ML Ops Start Kit contains a set of Get Started Projects. Each Project has Instructions, Code/Notebooks, and Data packaged together in a single asset (.zip file) that can be imported as new 'Project' in Cloud Pak For Data project in a single click.
 
+ML Ops Start Kit uses Customer Churn Use case for a communications company. The use case covers key aspects of operationalizing a customer churn model like
+
+    + Merging usage data with demographic data
+
+    + Automatically selecting algorithms
+
+    + Adding mathematical features if needed
+
+    + Monitoring the model for bias around age or gender
+
+    + Checking the model's explanations on the key factors that might create customer churn, such as income or dropped calls
+
 
 Each Get Started project supports a specific Machine Learning framework. Right now there are 3 Get Started projects supporting
     + Scikit Learn, 
@@ -74,13 +86,13 @@ Each Get Started project supports a specific Machine Learning framework. Right n
 
 ### Where to use ML Ops Starter Kit Projects<a class="anchor" id="ml-ops-sk-projects-usage">
 
-+ As a Starter Creating End to End Demo aligned with ML Ops challenges/requirements of new/prospective clients of CPD
++ Creating End to End Demo aligned with ML Ops challenges/requirements for a use case
 + Enablement
 + Development of industry specific demos/ assets using Cloud Pak for Data
 
-ML Ops Starter Kit works on any Cloud Pak For Data cluster (that has necessary components) including [Cloud Pak For Data Experience](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) 
+ML Ops Starter Kit works on any Cloud Pak For Data cluster (that has necessary components) including [Cloud Pak For Data Experience](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data). 
 
-ML Ops Starter Kit can be used for othet environments too in Public Cloud, Private Cloud or Hybrid Environment
+ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Public Cloud, Private Cloud or Hybrid Environment
 
 
 
@@ -98,11 +110,11 @@ ML Ops Starter Kit can be used for othet environments too in Public Cloud, Priva
     + Basic CI/CD using CAM API and Notebook based Jobs
 
 + **Wave 3 (on CPD 3.0)**  
-    + End to End ML Ops covering including Model Validation using Watson Open Scale and Virtualized Data Provisioning using             Data Virtualization
-    + Advanced CI/CD using Jenkins and Github (using CLI)
+    + End to End ML Ops covering including Model Validation and Risk Managment using Watson Open Scale and Virtualized Data Provisioning using Data Virtualization
+    + Advanced CI/CD using Jenkins and Github
     + Configuring Open Scale using API
     + Additional ML Frameworks – R, Tensor Flow/Keras, Others
-    + Other ML Operationalization Frameworks
+    + Other potential ML Operationalization Frameworks (Open Source)
 
 ### Contents of the Repository<a class="anchor" id="ml-ops-repo-contents">
 
