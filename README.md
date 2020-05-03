@@ -135,10 +135,10 @@ ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Pub
 ### Contributors<a class="anchor" id="ml-ops-contributors">
     
 + [Shikhar Kwatra](https://www.linkedin.com/in/shikharkwatra/)
-+ [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
 + [Mak Kader](https://www.linkedin.com/in/makkader/)
 + [Stacey Ronaghan](https://www.linkedin.com/in/staceyronaghan/)
 + [Rakshith DasenahalliLingaraju](https://www.linkedin.com/in/rakshith-dasenahallilingaraju-600639100/)
++ Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
 + [Sunil Dube](https://www.linkedin.com/in/sunil-dube-b861861/)
 
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
