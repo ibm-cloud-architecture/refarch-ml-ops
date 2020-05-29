@@ -50,7 +50,7 @@ Along with these functional capabilities having right set of Non Functional Capa
 There are various frameworks and platforms available for ML Operationalization with varied degree of support for required Functional and Non Functional capabilities
 
 
-![](images/VariousMlOpsFrameworks.png width=48)
+![](images/VariousMlOpsFrameworks.png || width=48)
 
 
 
