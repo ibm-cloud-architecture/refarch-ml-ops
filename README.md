@@ -35,7 +35,7 @@ For more infornation on conceptual view of ML Operationalization please check [O
 
 Here are the key Functional Capabilities those are needed in establishing ML Operationalization in an organization.
 
-![](images/VariousMlOpsFrameworks-0.2.png)
+![](images/MLOpsKeyCapabilities-0.2.png)
 
 
 Along with these functional capabilities having right set of Non Functional Capabilities is important too
@@ -50,7 +50,7 @@ Along with these functional capabilities having right set of Non Functional Capa
 There are various frameworks and platforms available for ML Operationalization with varied degree of support for required Functional and Non Functional capabilities
 
 
-![](images/VariousMlOpsFrameworks.png || width=48)
+![](images/VariousMlOpsFrameworks.png | width=48)
 
 
 
