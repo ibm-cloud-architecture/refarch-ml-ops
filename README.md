@@ -55,7 +55,7 @@ There are various frameworks and platforms available for ML Operationalization w
 
 
 
-**IBM Cloud Pak For Data** 
+<span font-size:4em;"> **IBM Cloud Pak For Data** 
 
 IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
