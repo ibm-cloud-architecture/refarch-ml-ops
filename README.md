@@ -160,6 +160,7 @@ ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Pub
 + [Rakshith DasenahalliLingaraju](https://www.linkedin.com/in/rakshith-dasenahallilingaraju-600639100/)
 + [Avinash Asthana](https://www.linkedin.com/in/avinash-asthana-8a940a30/)
 + [Joe Kozhaya](https://www.linkedin.com/in/joe-kozhaya-b574b533/)
++ [John Thomas](https://www.linkedin.com/in/johnjaithomas/)
 + [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
 + [Sunil Dube](https://www.linkedin.com/in/sunil-dube-b861861/)
 
