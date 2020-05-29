@@ -7,13 +7,14 @@
 1. [ML Operationalizarion](#ml-ops-intro)
 2. [Key Capabilities needed for Operationalizing Models](#ml-ops-capabilities)
 3. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
-4. [ML Ops Starter Kit](#ml-ops-starter-kit)
-5. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
-6. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
-7. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
-8. [Contents of the Repository](#ml-ops-repo-contents)
-9. [How to get Started with this Starter Kit](#ml-ops-get-started)
-10. [Contributors](#ml-ops-contributors)
+4. [IBM Cloud Pak For Data for ML Operationalization](#ml-ops-using-cpd)
+5. [ML Ops Starter Kit](#ml-ops-starter-kit)
+6. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
+7. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
+8. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
+9. [Contents of the Repository](#ml-ops-repo-contents)
+10. [How to get Started with this Starter Kit](#ml-ops-get-started)
+11. [Contributors](#ml-ops-contributors)
 
 
 
@@ -55,7 +56,7 @@ There are various frameworks and platforms available for ML Operationalization w
 
 
 
-<span font-size:4em;"> **IBM Cloud Pak For Data** 
+### IBM Cloud Pak For Data for ML Operationalization** <a class="anchor" id="ml-ops-using-cpd-">
 
 IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
