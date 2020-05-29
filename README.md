@@ -142,7 +142,7 @@ ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Pub
 ### How to get Started with this Starter Kit<a class="anchor" id="ml-ops-get-started">
     
 + If you have some environment of Cloud Pak For Data start with that. Or get your access to free edition of [Cloud Pak For Data Experience](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) cluster
-+ Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
++ Go to Projects folder of this Repository (refarch-ml-ops/Projects). Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations that may beneeded by you for ML Ops
 
 
