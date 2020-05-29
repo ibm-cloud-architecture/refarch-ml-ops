@@ -5,14 +5,15 @@
 ### Contents
 
 1. [ML Operationalizarion](#ml-ops-intro)
-2. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
-3. [ML Ops Starter Kit](#ml-ops-starter-kit)
-4. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
-5. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
-6. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
-7. [Contents of the Repository](#ml-ops-repo-contents)
-8. [How to get Started with this Starter Kit](#ml-ops-get-started)
-9. [Contributors](#ml-ops-contributors)
+2. [Key Capabilities needed for Operationalizing Models](#ml-ops-capabilities)
+3. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
+4. [ML Ops Starter Kit](#ml-ops-starter-kit)
+5. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
+6. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
+7. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
+8. [Contents of the Repository](#ml-ops-repo-contents)
+9. [How to get Started with this Starter Kit](#ml-ops-get-started)
+10. [Contributors](#ml-ops-contributors)
 
 
 
@@ -30,7 +31,7 @@ The diagram below show the ML Ops steps and persona
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
-### Key Capabilitied needed for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
+### Key Capabilities needed for Operationalizing Models<a class="anchor" id="ml-ops-capabilities">
 
 Here are the key Functional Capabilities those are needed in establishing ML Operationalization in an organization.
 
