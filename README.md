@@ -50,11 +50,14 @@ Along with these functional capabilities having right set of Non Functional Capa
 There are various frameworks and platforms available for ML Operationalization with varied degree of support for required Functional and Non Functional capabilities
 
 
-![](images/VariousMlOpsFrameworks.png)
+![](images/VariousMlOpsFrameworks.png width=48)
 
 
 
-**IBM Cloud Pak For Data** is a platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
+
+**IBM Cloud Pak For Data** 
+
+IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
 ![](images/CPDTotal-0.2.png)
 
