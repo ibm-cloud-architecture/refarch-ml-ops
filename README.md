@@ -5,14 +5,16 @@
 ### Contents
 
 1. [ML Operationalizarion](#ml-ops-intro)
-2. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
-3. [ML Ops Starter Kit](#ml-ops-starter-kit)
-4. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
-5. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
-6. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
-7. [Contents of the Repository](#ml-ops-repo-contents)
-8. [How to get Started with this Starter Kit](#ml-ops-get-started)
-9. [Contributors](#ml-ops-contributors)
+2. [Key Capabilities needed for Operationalizing Models](#ml-ops-capabilities)
+3. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
+4. [IBM Cloud Pak For Data for ML Operationalization](#ml-ops-using-cpd)
+5. [ML Ops Starter Kit](#ml-ops-starter-kit)
+6. [ML Ops Starter Kit Projects](#ml-ops-sk-projects)
+7. [Where to use ML Ops Starter Kit Projects](#ml-ops-sk-projects-usage)
+8. [ML Ops Starter Kit Roadmap](#ml-ops-sk-roadmap)
+9. [Contents of the Repository](#ml-ops-repo-contents)
+10. [How to get Started with this Starter Kit](#ml-ops-get-started)
+11. [Contributors](#ml-ops-contributors)
 
 
 
@@ -22,27 +24,44 @@ ML Operationalization refers to operationalization of Machine Learning Models fo
 
 ML Operationalization covers standard ML Lifecycle (CRISP-DM) overlaid with Continuous Integration/Continuous Development paradigm. It covers Data Priovisioning & Governance, Data Preparation for Model Development, Model Development, Model Validation & Governance, Infusing Model's Insight in Application and Model Monitoring in a continuous fashion.
 
-In contrast to Appplication DevOps, MLOps not only takes care of Continuous Integration and Continuous Deployment but also covers Continuous Training and Monitoring.
+In contrast to Appplication DevOps, MLOps not only takes care of Continuous Integration and Continuous Deployment but also covers Continuous Training, Continuous Validation and Continuous Monitoring.
 
 The diagram below show the ML Ops steps and persona
 
-![](images/MlOps2.png)
+![](images/MLOpsArch0.5.png)
 
 For more infornation on conceptual view of ML Operationalization please check [Operationalizing AI](https://ibm.co/AI-Ops)
 
+### Key Capabilities needed for Operationalizing Models<a class="anchor" id="ml-ops-capabilities">
+
+Here are the key Functional Capabilities those are needed in establishing ML Operationalization in an organization.
+
+![](images/MLOpsKeyCapabilities-0.2.png)
+
+
+Along with these functional capabilities having right set of Non Functional Capabilities is important too
+
+
+![](images/NFRForMLOps.png)
 
 
 ### Frameworks for Operationalizing Models<a class="anchor" id="ml-ops-cpd-intro">
     
-There are various frameworks and platforms available for ML Operationalization
+
+There are various frameworks and platforms available for ML Operationalization with varied degree of support for required Functional and Non Functional capabilities
+
 
 ![](images/VariousMlOpsFrameworks.png)
 
 
 
-**IBM Cloud Pak For Data** is also platform to support ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
-![](images/CPDTotal.png)
+
+### IBM Cloud Pak For Data for ML Operationalization <a class="anchor" id="ml-ops-using-cpd-">
+
+IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
+
+![](images/CPDTotal-0.2.png)
 
 For detailed information about Cloud Pak For Data please check [here](https://www.ibm.com/products/cloud-pak-for-data)
 
@@ -50,10 +69,10 @@ For detailed information about Cloud Pak For Data please check [here](https://ww
 
 ### ML Ops Starter Kit<a class="anchor" id="ml-ops-starter-kit">
 
-**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It right now uses components of Cloud Pak For Data. However, can be extended for any other Open Source of Propreitory ML Ops frameworks too or for use in a Mix and Match way.
+**ML Ops Starter Kit** is an End 2 End framework to help one get started with ML Operationalization. It ruses components of Cloud Pak For Data. However, can be extended for any other Open Source of Propreitory ML Ops frameworks too for supporting any kind of hybrid approach.
 
 
-![](images/MlOpsStarterKit3.png)
+![](images/MlOpsStarterKit4.png)
 
 
 
@@ -105,12 +124,13 @@ ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Pub
     + Using 3 Machine Learning Model development Frameworks – AutoAI, Scikit Learn and SparkMlLib
     + Covers following components of Cloud Pak for Data - Data Connections, Watson Studio (Data Refinery, Notebooks, Auto AI, Spark/Analytics Engine), Watson Machine Learning and Watson Open Scale
 
-+ **Wave 2 (on CPD 2.5)**  
++ **Wave 2 (on CPD 3.0)**  
+    + End to End ML Ops covering including Model Validation using Watson Open Scale
     + ML Ops including Data Provisioning and Governance using Watson Knowledge Catalog
-    + Basic CI/CD using CAM API and Notebook based Jobs
 
 + **Wave 3 (on CPD 3.0)**  
-    + End to End ML Ops covering including Model Validation and Risk Managment using Watson Open Scale and Virtualized Data Provisioning using Data Virtualization
+    + ML Ops including Data Provisioning and Governance using Watson Knowledge Catalog 
+    + Virtualized Data Provisioning using Data Virtualization
     + Advanced CI/CD using Jenkins and Github
     + Configuring Open Scale using API
     + Additional ML Frameworks – R, Tensor Flow/Keras, Others
@@ -127,17 +147,21 @@ ML Ops Starter Kit can be potentially extended to other ML Ops frameworks in Pub
 
 ### How to get Started with this Starter Kit<a class="anchor" id="ml-ops-get-started">
     
-+ If you have some environment of Cloud Pak For Data start with that. Or get your access to free edition of [Cloud Pak For Data](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) cluster
-+ Go to Projects folder of this Repository. Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
++ If you have some environment of Cloud Pak For Data start with that. Or get your access to free edition of [Cloud Pak For Data Experience](https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data) cluster
++ Go to Projects folder of this Repository (refarch-ml-ops/Projects). Select the Project you want to use. Start with the project with Auto AI as that can help you establish an end to end flow in few Hrs. *Right now we have 1 project using Auto AI. We are adding more projects soon.*
 + Go to Supporting Assets folder of this Repository. There you would get other relevant documentations that may beneeded by you for ML Ops
 
 
 ### Contributors<a class="anchor" id="ml-ops-contributors">
     
 + [Shikhar Kwatra](https://www.linkedin.com/in/shikharkwatra/)
-+ [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
 + [Mak Kader](https://www.linkedin.com/in/makkader/)
 + [Stacey Ronaghan](https://www.linkedin.com/in/staceyronaghan/)
 + [Rakshith DasenahalliLingaraju](https://www.linkedin.com/in/rakshith-dasenahallilingaraju-600639100/)
++ [Avinash Asthana](https://www.linkedin.com/in/avinash-asthana-8a940a30/)
++ [Joe Kozhaya](https://www.linkedin.com/in/joe-kozhaya-b574b533/)
++ [John Thomas](https://www.linkedin.com/in/johnjaithomas/)
++ [Sourav Mazumder](https://www.linkedin.com/in/souravmazumder/)
++ [Sunil Dube](https://www.linkedin.com/in/sunil-dube-b861861/)
 
 Please [contact me](mailto:smazumder@us.ibm.com) for any questions.
