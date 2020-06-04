@@ -59,7 +59,7 @@ There are various frameworks and platforms available for ML Operationalization w
 
 ### IBM Cloud Pak For Data for ML Operationalization <a class="anchor" id="ml-ops-using-cpd-">
 
-IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive way. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
+IBM Cloud Pak For Data is an End to End platform that supports required Functional and Non Functional Capabilities required by ML Operationalization in a comprehensive manner. It is a platform to accelerate realization of business value from Machine Learning Models with an open, extensible data and AI platform that runs on any cloud.
 
 ![](images/CPDTotal-0.2.png)
 
@@ -94,7 +94,7 @@ ML Ops Start Kit uses Customer Churn Use case for a communications company. The 
 
 
 Each Get Started project supports a specific Machine Learning framework. Right now there are 3 Get Started projects supporting
-    + Scikit Learn, 
+    + Scikit Learn 
     + Spark MLLib 
     + AutoAI
     + More frameworks; R, Tensore Flow/Keras, SPSS Modeler, etc; are coming soon.
