@@ -4,7 +4,7 @@
 
 ### Contents
 
-1. [ML Operationalizarion](#ml-ops-intro)
+1. [ML Operationalization](#ml-ops-intro)
 2. [Key Capabilities needed for Operationalizing Models](#ml-ops-capabilities)
 3. [Frameworks for Operationalizing Models](#ml-ops-cpd-intro)
 4. [IBM Cloud Pak For Data for ML Operationalization](#ml-ops-using-cpd)
